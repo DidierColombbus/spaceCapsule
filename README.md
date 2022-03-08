@@ -1,2 +1,2 @@
 # spaceCapsule
-A spaceship scanning for other ones, in html and css
+A starship scanning deep space, in html and css
